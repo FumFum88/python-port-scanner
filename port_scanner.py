@@ -1,5 +1,6 @@
 # Python Port Scanner
 # Author: FumFum88
+# Description: Basic TCP port scanner using Python sockets
 import socket
 
 def scan_port(ip, port):
